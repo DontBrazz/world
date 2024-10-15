@@ -1,0 +1,373 @@
+.letter-1 {
+    animation: letter-1 5s infinite;
+  }
+  
+  .letter-2 {
+    animation: letter-2 5s infinite;
+  }
+  
+  .letter-3 {
+    animation: letter-3 5s infinite;
+  }
+  
+  .letter-4 {
+    animation: letter-4 5s infinite;
+  }
+  
+  .letter-5 {
+    animation: letter-5 5s infinite;
+  }
+  
+  .letter-6 {
+    animation: letter-6 5s infinite;
+  }
+  
+  .letter-7 {
+    animation: letter-7 5s infinite;
+  }
+  
+  .letter-8 {
+    animation: letter-8 5s infinite;
+  }
+  
+  .letter-9 {
+    animation: letter-9 5s infinite;
+  }
+  
+  .letter-10 {
+    animation: letter-10 5s infinite;
+  }
+  
+  .letter-11 {
+    animation: letter-10 5s infinite;
+  }
+  
+  @keyframes letter-1 {
+    0% {
+      color: #fff;
+    }
+  
+    5% {
+      color: var(--color-p);
+    }
+  
+    60% {
+      color: #fff;
+    }
+  
+    70% {
+      color: var(--color-p);
+    }
+  
+    75% {
+      color: #fff;
+    }
+  
+    80% {
+      color: var(--color-p);
+    }
+  
+    100% {
+      color: #fff;
+    }
+  }
+  
+  @keyframes letter-2 {
+    0% {
+      color: #fff;
+    }
+  
+    10% {
+      color: var(--color-p);
+    }
+  
+    60% {
+      color: #fff;
+    }
+  
+    70% {
+      color: var(--color-p);
+    }
+  
+    75% {
+      color: #fff;
+    }
+  
+    80% {
+      color: var(--color-p);
+    }
+  
+    100% {
+      color: #fff;
+    }
+  }
+  
+  @keyframes letter-3 {
+    0% {
+      color: #fff;
+    }
+  
+    15% {
+      color: var(--color-p);
+    }
+  
+    60% {
+      color: #fff;
+    }
+  
+    70% {
+      color: var(--color-p);
+    }
+  
+    75% {
+      color: #fff;
+    }
+  
+    80% {
+      color: var(--color-p);
+    }
+  
+    100% {
+      color: #fff;
+    }
+  }
+  
+  @keyframes letter-4 {
+    0% {
+      color: #fff;
+    }
+  
+    20% {
+      color: var(--color-p);
+    }
+  
+    60% {
+      color: #fff;
+    }
+  
+    70% {
+      color: var(--color-p);
+    }
+  
+    75% {
+      color: #fff;
+    }
+  
+    80% {
+      color: var(--color-p);
+    }
+  
+    100% {
+      color: #fff;
+    }
+  }
+  
+  @keyframes letter-5 {
+    0% {
+      color: #fff;
+    }
+  
+    25% {
+      color: var(--color-p);
+    }
+  
+    60% {
+      color: #fff;
+    }
+  
+    70% {
+      color: var(--color-p);
+    }
+  
+    75% {
+      color: #fff;
+    }
+  
+    80% {
+      color: var(--color-p);
+    }
+  
+    100% {
+      color: #fff;
+    }
+  }
+  
+  @keyframes letter-6 {
+    0% {
+      color: #fff;
+    }
+  
+    30% {
+      color: var(--color-p);
+    }
+  
+    60% {
+      color: #fff;
+    }
+  
+    70% {
+      color: var(--color-p);
+    }
+  
+    75% {
+      color: #fff;
+    }
+  
+    80% {
+      color: var(--color-p);
+    }
+  
+    100% {
+      color: #fff;
+    }
+  }
+  
+  @keyframes letter-7 {
+    0% {
+      color: #fff;
+    }
+  
+    35% {
+      color: var(--color-p);
+    }
+  
+    60% {
+      color: #fff;
+    }
+  
+    70% {
+      color: var(--color-p);
+    }
+  
+    75% {
+      color: #fff;
+    }
+  
+    80% {
+      color: var(--color-p);
+    }
+  
+    100% {
+      color: #fff;
+    }
+  }
+  
+  @keyframes letter-8 {
+    0% {
+      color: #fff;
+    }
+  
+    40% {
+      color: var(--color-p);
+    }
+  
+    60% {
+      color: #fff;
+    }
+  
+    70% {
+      color: var(--color-p);
+    }
+  
+    75% {
+      color: #fff;
+    }
+  
+    80% {
+      color: var(--color-p);
+    }
+  
+    100% {
+      color: #fff;
+    }
+  }
+  
+  @keyframes letter-9 {
+    0% {
+      color: #fff;
+    }
+  
+    45% {
+      color: var(--color-p);
+    }
+  
+    60% {
+      color: #fff;
+    }
+  
+    70% {
+      color: var(--color-p);
+    }
+  
+    75% {
+      color: #fff;
+    }
+  
+    80% {
+      color: var(--color-p);
+    }
+  
+    100% {
+      color: #fff;
+    }
+  }
+  
+  @keyframes letter-10 {
+    0% {
+      color: #fff;
+    }
+  
+    50% {
+      color: var(--color-p);
+    }
+  
+    60% {
+      color: #fff;
+    }
+  
+    70% {
+      color: var(--color-p);
+    }
+  
+    75% {
+      color: #fff;
+    }
+  
+    80% {
+      color: var(--color-p);
+    }
+  
+    100% {
+      color: #fff;
+    }
+  }
+  
+  @keyframes letter-11 {
+    0% {
+      color: #fff;
+    }
+  
+    55% {
+      color: var(--color-p);
+    }
+  
+    60% {
+      color: #fff;
+    }
+  
+    70% {
+      color: var(--color-p);
+    }
+  
+    75% {
+      color: #fff;
+    }
+  
+    80% {
+      color: var(--color-p);
+    }
+  
+    100% {
+      color: #fff;
+    }
+  }
